@@ -1,0 +1,319 @@
+
+
+.bg-theme-color{
+    background-color:#386cc4 ;
+}
+.text-border-green{
+    color: #427900;
+   border-color: #427900;
+}
+.container {
+    display: flex !important;
+    justify-content: space-around !important;
+  
+}
+
+
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+  .navbar-nav li:hover a:hover{
+      background-color:#386cc4;
+      color: white !important;
+      border-radius: 30px;
+      padding-left: 4px;
+      padding-right: 4px;
+  }
+.active{
+    background-color:#386cc4;
+    border-radius: 30px;
+    padding-left: 4px;
+    padding-right: 4px;
+
+  }
+
+
+
+
+
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(Merriweather_light.off);
+  }
+  
+  
+* {
+    font-family: myFirstFont;
+  }
+
+
+
+.head{
+    background-color: #386cc4;
+}
+li{
+    display: inline-block; 
+}
+.icons img{
+    width: 25px;
+    height:25px;
+}
+.nav{
+    background-color: #f7f8fa;
+}
+main{
+    background-color: #f7f8fa;
+}
+.alpha{
+    background-color: #386cc4;
+  
+}
+.navb{
+    padding-left:100px ;
+}
+.para{
+    color: white;
+    
+}
+.mid{
+    padding-left: 120px;
+    padding-top: 30px;
+}
+
+
+.icons{
+    padding-left: 160px;
+    padding-top: 20px;
+}
+.logo img{
+    width: 350px;
+    height:50px;
+    padding-left: 180px;
+}
+
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+.navbar-nav li:hover{
+    background-color:#386cc4;
+    border-radius: 30px;
+    padding-left: 4px;
+    padding-right: 4px;
+
+    color: white;
+}
+
+.carousel-inner img{
+    height: 500px ;
+}
+.main{
+    display: inline-block;
+    padding-top: 100px;
+}
+.blue{
+    color:#386cc4;
+}
+.green{
+    color: #07e227;
+}
+.abc{
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+
+
+}
+.abc p{
+    background-color: none;
+    width: 1100px;
+    border: none;
+    padding: auto;
+    margin: 20px;
+
+}
+
+.hello{
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+    flex-wrap: wrap;
+    /* background-color:#2854ec; */
+    /* padding-top: 40px; */
+    text-align: center;
+    /* height: 300px; */
+
+
+}
+
+.one,.two,.three,.four{
+    border: 2px solid red;
+    width: 500px;
+        background-color:#2854ec;
+
+}
+
+
+
+
+.one{
+    flex: 3;
+}
+.two{
+    flex: 3;
+}
+.three{
+    flex: 3;
+}
+.four{
+    flex: 3;
+}
+
+
+
+.white {
+    background-color: white;
+    height: 150px;
+    width: 250px;
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+    -moz-box-shadow: 2px 2px 2px 2px black;
+    -webkit-box-shadow: 2px 2px 2px 2px black;
+    box-shadow: 2px 2px 2px 2px black;
+  }
+  .white img{
+      width: 70px;
+      height: 70px;
+  }
+  .cardone img{
+      width: 50px;
+      height:50px;
+  }
+.stripe img{
+    width: 70px;
+    height: 70px;
+
+}
+
+h1{
+    color:white;
+}
+
+
+  h3{
+      padding-top: 60px;
+      color: #386cc4;
+      margin-left: 210px;
+      padding-bottom: 20px;
+  }
+
+
+.end {
+    background-color: white;
+    height: 150px;
+    width: 200px;
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+
+  }
+  .end img{
+      width: 200px;
+      height: 150px;
+  }
+  .nice{
+      display: inline-block;
+      margin-right: 5px;
+  }
+  .cardone{
+    width:40px;
+    height:30px;
+  margin-left: 200px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+
+  }
+  .cardtwo{
+    width:40px;
+    height:30px;
+  margin-left: 50px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+
+
+  }
+.col{
+    padding-top:40px;
+}
+
+.cardonea{
+    width:40px;
+    height:30px;
+  margin-left: 200px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  margin-top: 25px;
+
+}
+.cardtwob{
+    width:40px;
+    height:30px;
+  margin-left: 50px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  margin-top: 25px;
+
+} 
+
+
+img twitter{
+    width: 10px;
+    height: 10px;
+}
+ul{
+    display: inline-flex;
+}
+li{
+    padding: 10px;
+}
+.of,p{
+    color: grey;
+}
+.beta{
+    color: white;
+}
+.w{
+    color: white;
+padding-left: 20px;
+}
+           
+.blue_stripe{
+    padding: 10px 0px 60px;
+    background-color: #2854ec;
+    /* height: 700px; */
+}
+
+.rowsetting{
+    margin: 80px 0px;
+
+}
+
+
+.greycard {
+    background-color: #f8fcfc;
+    height: 50px;
+    width: 300px;
+    color: #386cc4;
+   
+ 
+  } 
+.new_row{
+      justify-content: center;
+  }
+
+.new_rowone{
+    justify-content: center;
+}
